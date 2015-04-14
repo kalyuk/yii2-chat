@@ -1,0 +1,7 @@
+vendor
+.idea
+public/assets
+runtime
+app/views/node_modules
+app/views/layouts/templates.php
+app/views/assets/bower_components

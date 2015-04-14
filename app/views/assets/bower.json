@@ -1,0 +1,24 @@
+{
+  "name": "yii2 chat",
+  "version": "0.0.1",
+  "authors": [
+    "Dmitry Kalyuk <dmitry@kalyuk.ru>"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": ">=1.4.0-beta.6",
+    "angular-route": "latest",
+    "angular-resource": "latest",
+    "angular-bootstrap": "latest",
+    "angular-cookies": "latest",
+    "angular-flash-alert": "~1.0.0",
+    "bootstrap": ">=3.3.4",
+    "angular-loading-bar": "~0.7.1",
+    "angular-cookie": "~4.0.6"
+  }
+}

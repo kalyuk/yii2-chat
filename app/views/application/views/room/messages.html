@@ -1,0 +1,17 @@
+<div>
+    <div>
+        <ul>
+            <li ng-repeat="item in messages">
+                {{item.message}}
+            </li>
+        </ul>
+    </div>
+    <div>
+        <form novalidate="" ng-submit="ctrl.send()">
+            <textarea ng-model="message.message"></textarea>
+            <button type="submit">
+                Send
+            </button>
+        </form>
+    </div>
+</div>
