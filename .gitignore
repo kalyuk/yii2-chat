@@ -4,4 +4,5 @@ public/assets
 runtime
 app/views/node_modules
 app/views/layouts/templates.php
+composer.lock
 app/views/assets/bower_components

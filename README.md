@@ -9,4 +9,4 @@ npm install
 
 cd assets 
 
-bower install 
+bower install  
